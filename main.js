@@ -1,7 +1,8 @@
 document.getElementById("pulsanteInizio").addEventListener("click",myFunction());
 
-
 function myFunction(){
+
+
   var scf = ["sasso","carta","forbice"];
   var randomItem1 = scf[Math.floor(Math.random() * scf.length)];
   var randomItem2 = scf[Math.floor(Math.random() * scf.length)];

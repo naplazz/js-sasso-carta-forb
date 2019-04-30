@@ -48,9 +48,13 @@
   background-color: red;
 
 }
-#pla1, #pla2 {
+#pla1, #pla2, p {
   text-align: center;
   border: 1px solid white;
   color: white;
   margin: 2px;
+}
+h3, p {
+  text-align: center;
+
 }
